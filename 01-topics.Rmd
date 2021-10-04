@@ -1,0 +1,52 @@
+---
+title: Témata přednášek
+output: html_document
+---
+
+<style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+
+# 2020/2021 {.tabset}
+
+## Úvod do bayesiánské statistiky
+
+- 14.10 a 21.10. (dvoudílná přednáška), prezenční
+- Prezentace (To be done)
+- Příprava:
+  - Podívejte se na [toto video](https://www.youtube.com/watch?v=HZGCoVF3YvM) a zodpovězte následující otázky:
+    - Vysvětlete vlastními slovy, co je to prior.
+    - Vysvětlete vlastními slovy, co je to likelihood.
+    - Vysvětlete vlastními slovy, co je to posterior.
+    - Bayesiánské statistice je někdy vytýkáno, že je kvůli existenci priorů příliš subjektivní. Dokázali byste
+      vysvětlit proč?
+- Úkoly odezdávejte na alesvomacka@seznam.cz do 12.10.
+
+## Úvod do víceúrovňových modelů 
+
+- 18.11. a 25.11. (dvoudílná přednáška), prezenční
+- Prezentace (To be done)
+- Příprava (To be done)
+
+## Webscraping v R 
+
+- 9.12. online
+- Prezentace (To be done)
+- Příprava (To be done)
+
+## Psychological networks
+
+- 16.12. online
+- Prezentace (To be done)
+- Příprava (To be done)
+
+## Problém chybějícíh pozorování v sociologických datech
+
+- 13.1. online
+- Prezentace (To be done)
+- Příprava (To be done)

@@ -1,0 +1,13 @@
+name: "Aleš Vomáčka"
+output_dir: "."
+navbar:
+  title: "Vybraná témata analýzy dat"
+  left:
+    - text: "Přednášky"
+      href: 01-topics.html
+    - text: "Atestace"
+      href: 02-atestation.html
+output:
+  html_document:
+    theme: united
+    css: 'styles.css'

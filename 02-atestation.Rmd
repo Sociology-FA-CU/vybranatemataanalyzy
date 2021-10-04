@@ -1,0 +1,8 @@
+---
+title: "Atestace"
+output: html_document
+---
+
+Podmínkou splnění kurzu je účast na přednáškách o rozsahu alespoň n-1 téma, kde n je celkový počet vyučovaných témat. Pokud je téma rozděleno do více setkání, je možné vynechat všechna tato setkání. 
+
+Další podmínkou je přečtení zadané literatury a případné správné zodpovězení jednoduchých kontrolních otázek pro alespoň n-2 témata. 
