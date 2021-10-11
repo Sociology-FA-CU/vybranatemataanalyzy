@@ -17,7 +17,7 @@ output: html_document
 ## Úvod do bayesiánské statistiky
 
 - 14.10 a 21.10. (dvoudílná přednáška), prezenční
-- Prezentace (To be done)
+- [Prezentace](https://raw.githubusercontent.com/Sociology-FA-CU/vybranatemataanalyzy/main/presentations/01-intro_to_bayes.pdf)
 - Příprava:
   - Podívejte se na [toto video](https://www.youtube.com/watch?v=HZGCoVF3YvM) a zodpovězte následující otázky:
     - Vysvětlete vlastními slovy, co je to prior.
