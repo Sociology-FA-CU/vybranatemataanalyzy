@@ -14,7 +14,7 @@ output: html_document
 
 # 2020/2021 {.tabset}
 
-## Úvod do bayesiánské statistiky
+## 1. Úvod do bayesiánské statistiky
 
 - 14.10 a 21.10. (dvoudílná přednáška), prezenční
 - [Prezentace](https://raw.githubusercontent.com/Sociology-FA-CU/vybranatemataanalyzy/main/presentations/01-intro_to_bayes.pdf)
@@ -26,26 +26,27 @@ output: html_document
     - Bayesiánské statistice je někdy vytýkáno, že je kvůli existenci priorů příliš subjektivní. Dokázali byste
       vysvětlit proč?
 - Úkoly odezdávejte na alesvomacka@seznam.cz do 12.10.
+- [Data](https://raw.githubusercontent.com/avehtari/ROS-Examples/master/Beauty/data/beauty.csv) k workshopu. Původně z *Hamermesh, D. S., and Parker, A. M. (2005). Beauty in the classroom: Instructors' pulchritude and putative pedagogical productivity. Economics of Education Review, 24:369-376.*
 
-## Úvod do víceúrovňových modelů 
+## 2. Úvod do víceúrovňových modelů 
 
 - 18.11. a 25.11. (dvoudílná přednáška), prezenční
 - Prezentace (To be done)
 - Příprava (To be done)
 
-## Webscraping v R 
+## 3. Webscraping v R 
 
 - 9.12. online
 - Prezentace (To be done)
 - Příprava (To be done)
 
-## Psychological networks
+## 4. Psychological networks
 
 - 16.12. online
 - Prezentace (To be done)
 - Příprava (To be done)
 
-## Problém chybějícíh pozorování v sociologických datech
+## 5. Problém chybějícíh pozorování v sociologických datech
 
 - 13.1. online
 - Prezentace (To be done)
