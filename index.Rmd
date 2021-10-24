@@ -1,14 +1,18 @@
 ---
-title: Vybraná témata analýzy dat
-output: html_document
 ---
 
-Tento předmět je zamýšlen jako příležitost pro studenty doktroského a magisterského studia ke zvládnutí pokročilých nebo inovativních metod analýzy dat. Studenti doktorského studia mohou absolvovat jen vybraná témata, čímž mohou plnit předmět Teoreticko-metodologický seminář (TMS). Magisterští studenti (pokud chtějí za předmět obdržet kredity) si musí zapsat předmět jako celek a vynechat maximálně jedno vyučované téma. Některá setkání jsou rozdělena do dvou setkání, např. MLM 1 a 2. Pro splnění tématu je potřeba účastnit se obou setkání. Podobně pokud se student rozhodne téma vynechat, znamená to, že se nemusí účastnit ani jednoho setkání.
+## Anotace kurzu
 
-Předmět není v rámci semestru vyučován pravidelně každý týden, nýbrž podle předem stanového harmonogramu (viz níže). Celkové množství přímé výuky je menší než při klasické výuce. Větší prostor je naopak věnován samostatné přípravě na jednotlivá témata. Studenti dostanou před každým tématem za úkol přečíst asi tři až šest textů (odborných článků nebo kapitol).
+**Katedra sociologie Filozofické fakulty Univerzity Karlovy**
 
-Témata se budou v jednotlivých bězích předmětu měnit jen částečně. Studující magisterského programu si tedy může "za kredity" zapsat kurz jen jednou. Pokud by v budoucnu chtěl/a přijít na nějaké nově se objevivší téma, je to samozřejmě možné, ale bez kreditů.
+**Vyučující**: Mgr. Jaromír Mazák, Ph.D., Mgr. Aleš Vomáčka, externisté
 
-Pokud není uvedeno jinak, k výuce je využíván software R. Očekává se, že studenti budou mít nainstalovanou aktuální verzi R a doporučujeme také instalaci RStudia, ve kterém bude výuka probíhat. Návod na instalaci zde: https://alesvomacka.github.io/Uvod_do_analyzy_dat_v_R/02_install_R.html
+Tento předmět je zamýšlen jako příležitost pro studenty doktorského a magisterského studia ke zvládnutí pokročilých nebo inovativních metod analýzy dat. Studenti doktorského studia mohou absolvovat jen vybraná témata, čímž mohou plnit předmět Teoreticko-metodologický seminář (TMS). Magisterští studenti (pokud chtějí za předmět obdržet kredity) si musí zapsat předmět jako celek a vynechat maximálně jedno vyučované téma. Některá setkání jsou rozdělena do dvou setkání, např. MLM 1 a 2. Pro splnění tématu je potřeba účastnit se obou setkání. Podobně pokud se student rozhodne téma vynechat, znamená to, že se nemusí účastnit ani jednoho ze dvou setkání.
+
+Předmět není v rámci semestru vyučován pravidelně každý týden, nýbrž podle předem stanového harmonogramu (viz karta Přednášky). Celkové množství přímé výuky je menší než při klasické výuce. Větší prostor je naopak věnován samostatné přípravě na jednotlivá témata. Studenti dostanou před každým tématem za úkol přečíst asi tři až šest textů (odborných článků nebo kapitol).
+
+Témata se budou v jednotlivých bězích předmětu měnit jen částečně. Studující magisterského programu si tedy mohou "za kredity" zapsat kurz jen jednou. Pokud by v budoucnu chtěli přijít na nějaké nově se objevivší téma, je to samozřejmě možné, ale bez kreditů.
+
+Pokud není uvedeno jinak, k výuce je využíván software R. Očekává se, že studenti budou mít nainstalovanou aktuální verzi R a doporučujeme také instalaci RStudia, ve kterém bude výuka probíhat. [Návod na instalaci zde.](https://sociology-fa-cu.github.io/Uvod_do_analyzy_dat_v_R/02_install_R.html)
 
 Výuka probíhá v češtině, ale studijní materiály jsou převážně v angličtině.

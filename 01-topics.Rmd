@@ -31,8 +31,29 @@ output: html_document
 ## 2. Úvod do víceúrovňových modelů 
 
 - 18.11. a 25.11. (dvoudílná přednáška), prezenční
+- Na přípravu na první přednášku máte hodně času, takže i textů je více. Začněte včas. Na druhou přednášku už je pak pouze jeden článek.
 - Prezentace (To be done)
-- Příprava (To be done)
+- Přednáška 1
+    - Povinná literatura:
+        - Petr Soukup. (2006). Proč užívat hierarchické lineární modely? Sociologický časopis/Czech                                    Sociological Review, 2006, Vol. 42, No. 5: 987–1012. [Soukupův článek je volně přístupný zde.](https://esreview.soc.cas.cz/pdfs/csr/2006/05/08.pdf)
+        - Andrew Gelman and Jennifer Hill. (2006). Cambridge University Press. Kapitoly [1](https://ffuk-my.sharepoint.com/:b:/g/personal/mazaj7af_ff_cuni_cz/ESD8j7_AWaxJqpoMa_ydP-UBbiFLkg85e3Xk8ubiGZMs_Q?e=82hvms), [11](https://ffuk-my.sharepoint.com/:b:/g/personal/mazaj7af_ff_cuni_cz/Eb0iPjvNDoVGuMEsjgBbZOcB73XW8nrxOA3Ivc3kk0Fbcw?e=bOnKhT), [12](https://ffuk-my.sharepoint.com/:b:/g/personal/mazaj7af_ff_cuni_cz/ETwuHImfZQRKmwo1XXrRPsIBpeRwGnkI7bo6c1FGZf9f1Q?e=WMxavn), [13](https://ffuk-my.sharepoint.com/:b:/g/personal/mazaj7af_ff_cuni_cz/EVs7CnisPfZNsaPXAWNi7_wB56NDHXF5-degxsWiCzipCg?e=E7CXja). Heslo.     
+    - Rozšiřující literatura:
+        - Marco R. Steenbergen and Bradford S. Jones. (2002). Modeling Multilevel Data Structures. American Journal of Political Science, Vol. 46, No. 1                (Jan., 2002), pp. 218-237. [Zde](https://ffuk-my.sharepoint.com/:b:/g/personal/mazaj7af_ff_cuni_cz/EcSbBAA6qmxBg9cFf3SXVOcBtmLvHmrwaFacfyoNX_UQFg?e=cAmMzz). Vyžaduje Heslo.  
+    - Otázky (k zodpovězení stačí četba povinné literatury, posílejte na fakultní email Jaromír Mazáka (jmeno.prijmeni@ff.cuni.cz) do 15. 11. 2021.
+        - Představte si, že náhodně vyberete padesát školek v ČR. V každé náhodně vyberete jednu třídu dětí, u kterých změříte socio-emoční dovednosti a několik jejich prediktorů (věk a pohlaví dítěte, socioekonomický status rodiče). Zároveň změříte, jak nákladné je pro rodiče dítě do dané školky posílat. Uveďte důvody (všechny, které dokážete na základě literatury odvodit), proč je pro výslednou analýzu vhodnější víceúrovňový model než obyčejná lineární regrese s dummy prediktory pro jednotlivé školky. 
+        - Vysvětlete pojmy „full pooling“, „partial pooling“ a „no pooling“. Kterou z těchto forem poolingu nám umožňují provádět víceúrovňové modely?
+        - Která z následujících situací je pro klasické víceúrovňové modely počítané pomocí maximum likelihood problematičtější a proč: (1) Pro každou školu mám sice mnoho pozorování, ale škol mám jen pět. (2) Škol mám sice dostatek (například vysoké desítky), ale pro řadu z nich mám jen jednotky pozorování.
+- Přednáška 2
+  - Povinná literatura:
+        - Craig K. Enders and Davood Tofighi. (2007). Centering Predictor Variables in Cross-Sectional Multilevel Models: A New Look at an Old Issue. Psychological Methods, Vol. 12, No. 2, 121–138 [Zde.](https://ffuk-my.sharepoint.com/:b:/g/personal/mazaj7af_ff_cuni_cz/EdbaDyIFG5xIl6E8XmG3QD0BgPudVneFA8k19jUYF02TIA?e=sXSodN) Heslo. 
+  - Rozšiřující literatura:
+      - Omar Paccagnella. (2006). Centering or Not Centering in Multilevel Models? The Role of the Group Mean and the Assessment of Group Effects. Evaluation Review, Vol. 30 No. 1, Pp. 66-85. [Zde.](https://ffuk-my.sharepoint.com/:b:/g/personal/mazaj7af_ff_cuni_cz/EacOUZQVV4tLhP2w4oeOMRkBC6E7lJeRc46EEEiKlRKtyQ?e=XFc1Uv) Heslo. 
+      - Ita G.G. Kreft , Jan de Leeuw & Leona S. Aiken. (1995) The Effect of Different Forms of Centering in Hierarchical Linear Models, Multivariate Behavioral Research, 30:1, 1-21. [Zde.](https://ffuk-my.sharepoint.com/:b:/g/personal/mazaj7af_ff_cuni_cz/EePp0yU2WRlItyOVLclHCgoBFiOOR2AjLdqm6ENoK7cwjg?e=dSPZDG) Heslo. 
+      - Daniel Stegmueller. (2013). How Many Countries for Multilevel Modeling? A Comparison of Frequentist and Bayesian Approaches. American Journal of Political Science, Vol. 57, No. 3, July 2013, Pp. 748–761. [Zde.](https://ffuk-my.sharepoint.com/:b:/g/personal/mazaj7af_ff_cuni_cz/EePp0yU2WRlItyOVLclHCgoBFiOOR2AjLdqm6ENoK7cwjg?e=dSPZDG) Heslo.
+      - Rahim Moineddin, Flora I. Matheson, and Richard H. Glazier. (2007). A simulation study of sample size for multilevel logistic regression models. BMC Medical Research Methodology 2007, 7:34. [Zde.](https://ffuk-my.sharepoint.com/:b:/g/personal/mazaj7af_ff_cuni_cz/ERMveKV-OrxKoAgwDKYg6l8B1uCt9ouTqexwYNuUhZvssg?e=gQht9f) Heslo. 
+  - Otázky (k zodpovězení stačí četba povinné literatury, posílejte na fakultní email Jaromír Mazáka (jmeno.prijmeni@ff.cuni.cz) do 22. 11. 2021.
+      - Které dvě formy tzv. centrování zvažujeme v kontextu víceúrovňových modelů (jak je označujeme a v čem spočívají)? (A) Kterou z těchto forem použijeme, když se naše výzkumná otázka týká prediktoru na druhé (klastrové) úrovni, ale chceme kontrolovat vliv ostatních nezávislých proměnných na první úrovni? (B) Kterou formu centrování použijeme, pokud nás zajímá interakce proměnných na druhé úrovni?
+
 
 ## 3. Webscraping v R 
 
@@ -51,3 +72,5 @@ output: html_document
 - 13.1. online
 - Prezentace (To be done)
 - Příprava (To be done)
+
+
