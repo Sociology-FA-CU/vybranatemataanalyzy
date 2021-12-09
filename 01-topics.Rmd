@@ -54,18 +54,32 @@ output: html_document
   - Otázky (k zodpovězení stačí četba povinné literatury, posílejte na fakultní email Jaromír Mazáka (jmeno.prijmeni@ff.cuni.cz) do 22. 11. 2021.
       - Které dvě formy tzv. centrování zvažujeme v kontextu víceúrovňových modelů (jak je označujeme a v čem spočívají)? (A) Kterou z těchto forem použijeme, když se naše výzkumná otázka týká prediktoru na druhé (klastrové) úrovni, ale chceme kontrolovat vliv ostatních nezávislých proměnných na první úrovni? (B) Kterou formu centrování použijeme, pokud nás zajímá interakce proměnných na druhé úrovni?
 
-
-## 3. Webscraping v R 
-
-- 9.12. online
-- Prezentace (To be done)
-- Příprava (To be done)
-
-## 4. Psychological networks
+## 3. Psychological networks
 
 - 16.12. online
-- Prezentace (To be done)
-- Příprava (To be done)
+- Povinnná literatura:
+  - Borsboom, D. (2017). A network theory of mental disorders. World psychiatry, 16(1), 5-13. <https://doi.org/10.1002/wps.20375>
+- Rozšiřující literatura:
+  - Borsboom, D., & Cramer, A. O. (2013). Network analysis: an integrative approach to the structure of psychopathology. Annual review of clinical psychology, 9, 91-121. <https://doi.org/10.1146/annurev-clinpsy-050212-185608>
+- Otázky:
+  - Co je to node a co je to edge?
+  - Co je to adjacency matrix?
+  - Vysvětlete rozdíl, když na depresi nahlížíme jako na latentní proměnnou, nebo když na ni nahlížíme jako na síť symptomů
+  - Napadá vás, co by se dalo modelovat pomocí sítí v sociologii?” bych si dovolil změnit na “Napadá vás nějaký koncept, na který sociologie pohlíží jako na latentní proměnnou,  a který by se dal modelovat pomocí sítí?
+- Úkoly odevzdávejte na aklocek.ak@gmail.com do 15.12.
+
+## 4. Webscraping v R 
+
+- 6.12. online
+- Povinná příprava
+  - [What is an API (~ 3 min)](https://www.youtube.com/watch?v=s7wmiS2mSXY)
+  - [What is HTML, CSS, Javascript? (~ 4 min)](https://www.youtube.com/watch?v=gT0Lh1eYk78)
+  - [HTML introduction (~ 3min)](https://www.youtube.com/watch?v=ewZ_YWbIWXI)
+- Rozšiřující příprava:
+  - [HTML explained in 5 minutes (5 min)](https://www.youtube.com/watch?v=salY_Sm6mv4)
+  - [CSS tutorial - Selectors, Element, Class & ID (~ 6 min)](https://www.youtube.com/watch?v=1h5StQJ8hww)
+
+
 
 ## 5. Problém chybějícíh pozorování v sociologických datech
 
