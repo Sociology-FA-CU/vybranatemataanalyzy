@@ -65,7 +65,7 @@ output: html_document
   - Co je to node a co je to edge?
   - Co je to adjacency matrix?
   - Vysvětlete rozdíl, když na depresi nahlížíme jako na latentní proměnnou, nebo když na ni nahlížíme jako na síť symptomů
-  - Napadá vás, co by se dalo modelovat pomocí sítí v sociologii?” bych si dovolil změnit na “Napadá vás nějaký koncept, na který sociologie pohlíží jako na latentní proměnnou,  a který by se dal modelovat pomocí sítí?
+  - Napadá vás nějaký koncept, na který sociologie pohlíží jako na latentní proměnnou,  a který by se dal modelovat pomocí sítí?
 - Úkoly odevzdávejte na aklocek.ak@gmail.com do 15.12.
 
 ## 4. Webscraping v R 
