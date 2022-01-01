@@ -75,11 +75,9 @@ output: html_document
   - [What is an API (~ 3 min)](https://www.youtube.com/watch?v=s7wmiS2mSXY)
   - [What is HTML, CSS, Javascript? (~ 4 min)](https://www.youtube.com/watch?v=gT0Lh1eYk78)
   - [HTML introduction (~ 3min)](https://www.youtube.com/watch?v=ewZ_YWbIWXI)
+  - [CSS tutorial - Selectors, Element, Class & ID (~ 6 min)](https://www.youtube.com/watch?v=1h5StQJ8hww)
 - Rozšiřující příprava:
   - [HTML explained in 5 minutes (5 min)](https://www.youtube.com/watch?v=salY_Sm6mv4)
-  - [CSS tutorial - Selectors, Element, Class & ID (~ 6 min)](https://www.youtube.com/watch?v=1h5StQJ8hww)
-
-
 
 ## 5. Problém chybějícíh pozorování v sociologických datech
 
