@@ -78,11 +78,10 @@ output: html_document
   - [CSS tutorial - Selectors, Element, Class & ID (~ 6 min)](https://www.youtube.com/watch?v=1h5StQJ8hww)
 - Rozšiřující příprava:
   - [HTML explained in 5 minutes (5 min)](https://www.youtube.com/watch?v=salY_Sm6mv4)
+- Příprava:
+  - Co je HTML a css? K čemu se při tvorbě webu používají? 
+  - Jaké tři HTML tagy musí mít každá webová stránka, aby ji dokázal prohlížeč interpretovat? Co tyto tagy obsahují?
+  - Jaký je rozdíl mezi css class a id?
+- Vypracované otázky posílejte na adresuz renata.topinkova@soc.cas.cz do 5.1. 2022.
 
 ## 5. Problém chybějícíh pozorování v sociologických datech
-
-- 13.1. online
-- Prezentace (To be done)
-- Příprava (To be done)
-
-
