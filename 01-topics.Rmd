@@ -96,4 +96,4 @@ output: html_document
   - Máte za úkol snížit náklady knihkupectví. Vyberte jednu oblast, na kterou byste se mohli zaměřit. Co byste prozkoumali a jaké měli hypotézy? Pokud by se potvrdily, jak by společnost ušetřila?
   - Knihkupectví dává každé Vánoce svým věrným zákazníkům 50% slevu na jakoukoliv publikaci, protože věří, že se jim peníze vrátí díky větší loajalitě zákazníků. Jak byste analyzovali, jestli by nebylo výhodnější slevu zrušit, nebo naopak rozšířit na všechny zákazníky?
   - Vybavte si poslední statistickou metodu, kterou jste se učili. Jak by se dala konkrétně využít při práci pro knihkupectví?
-- Vypracované úkoly posílejte na adresu ales@vomacka.io do 12.1.
+- Vypracované úkoly posílejte na adresu mail@michalzeman.cz do 12.1.
