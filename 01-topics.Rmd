@@ -70,7 +70,7 @@ output: html_document
 
 ## 4. Webscraping v R 
 
-- 6.12. online
+- 6.1. online
 - Povinná příprava
   - [What is an API (~ 3 min)](https://www.youtube.com/watch?v=s7wmiS2mSXY)
   - [What is HTML, CSS, Javascript? (~ 4 min)](https://www.youtube.com/watch?v=gT0Lh1eYk78)
@@ -82,6 +82,18 @@ output: html_document
   - Co je HTML a css? K čemu se při tvorbě webu používají? 
   - Jaké tři HTML tagy musí mít každá webová stránka, aby ji dokázal prohlížeč interpretovat? Co tyto tagy obsahují?
   - Jaký je rozdíl mezi css class a id?
-- Vypracované otázky posílejte na adresuz renata.topinkova@soc.cas.cz do 5.1. 2022.
+- Vypracované otázky posílejte na adresu renata.topinkova@soc.cas.cz do 5.1. 2022.
 
-## 5. Problém chybějícíh pozorování v sociologických datech
+## 5. Datová věda a prediktivní statistika v praxi
+
+- 13.1. online
+- Povinná literatura:
+  - Davenport, T. H., & Patil, D. J. (2012). Data scientist. Harvard business review, 90(5), 70-76.<- strany 70-73
+- Doplňková literatu:
+  - Kelleher, J. D., & Tierney, B. (2018). Data science. MIT Press.
+- Příprava:
+  - Představte si, že vás najali v knihkupectví v Karolinu, abyste dělali datovou vědu.
+  - Máte za úkol snížit náklady knihkupectví. Vyberte jednu oblast, na kterou byste se mohli zaměřit. Co byste prozkoumali a jaké měli hypotézy? Pokud by se potvrdily, jak by společnost ušetřila?
+  - Knihkupectví dává každé Vánoce svým věrným zákazníkům 50% slevu na jakoukoliv publikaci, protože věří, že se jim peníze vrátí díky větší loajalitě zákazníků. Jak byste analyzovali, jestli by nebylo výhodnější slevu zrušit, nebo naopak rozšířit na všechny zákazníky?
+  - Vybavte si poslední statistickou metodu, kterou jste se učili. Jak by se dala konkrétně využít při práci pro knihkupectví?
+- Vypracované úkoly posílejte na adresu ales@vomacka.io do 12.1.
