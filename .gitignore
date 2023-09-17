@@ -2,6 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-
-# Notes folder
-/notes
+/.quarto/
+.DS_Store

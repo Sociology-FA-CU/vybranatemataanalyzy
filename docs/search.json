@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Atestace",
+    "section": "",
+    "text": "Zapsat na kurz se můžete v SIS, předmět má kód ASGV00993. Podmínkou pro získání zápočtu je aktivní účast na alespoň 6 ze 7 workshopů."
+  },
+  {
+    "objectID": "about.html#magisterští-a-bakalářští-studenti",
+    "href": "about.html#magisterští-a-bakalářští-studenti",
+    "title": "Atestace",
+    "section": "",
+    "text": "Zapsat na kurz se můžete v SIS, předmět má kód ASGV00993. Podmínkou pro získání zápočtu je aktivní účast na alespoň 6 ze 7 workshopů."
+  },
+  {
+    "objectID": "about.html#doktorandi-ff-uk",
+    "href": "about.html#doktorandi-ff-uk",
+    "title": "Atestace",
+    "section": "Doktorandi FF UK",
+    "text": "Doktorandi FF UK\nÚčast na workshopu si můžete nechat uznat jako teoreticko-metodologický seminář, přičemž 2 worshopy = 1 TM seminář."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vybraná témata analýza dat",
+    "section": "",
+    "text": "Tato stránka je věnována workshopům pro statistiku a analýzu dat v kontextu sociálních věd, pořádaných na katedře sociologii Filozofické fakulty Univerzity Karlovy. Cílem setkání je poskytnout účastníkům příležitost seznámit se s pokročilými, novými a méně běžnými nástroji pro analýzu dat. Workhopy vás provedou hosté z řad akademického, veřejného i soukromého sektoru.\nStudenti univerzity si mohou workshopy zapsat jako volitelný předmět “Vybrané kapitoly analýzy dat v R” (SIS kód: ASGV00993). Studenti doktorského studia katedry sociologie FF UK si mohou účast na workshopech uznat jako teoreticko-metodologické semináře. Detaily jsou k nalezení v záložce Atestace. Ostatní zájemci se mohou registrovat na konkrétní workshopy pomocí přiložených formulářů. V případě otázek se můžete obrátit na ales@vomacka.io.\nPokud není uvedeno jinak, workshopy se konají ve čtvrtek od 14:10 do 15:45 v Celetné 20, místnost 211."
+  },
+  {
+    "objectID": "index.html#přehled-workshopů-pro-akademický-rok-20232024",
+    "href": "index.html#přehled-workshopů-pro-akademický-rok-20232024",
+    "title": "Vybraná témata analýza dat",
+    "section": "Přehled workshopů pro akademický rok 2023/2024",
+    "text": "Přehled workshopů pro akademický rok 2023/2024\n\n\nRenáta Topinková - Webscraping v R (5.10)\n\nRenáta Topinková - Webscraping v R (LMU Munich)  Termín: 5. 10.  Registrace: https://forms.office.com/e/BfHA4p1fJu  Tento workshop je 3hodinový!\nAPI (application programming interfaces) jsou v dnešní době nezbytnou součástí digitálního světa, avšak získat z nich data, která potřebujeme, může být často výzvou. V tomto workshopu si vyzkoušíme stahování dat pomocí dedikovaných R balíčků pro konkrétní API, ale také se naučíme, co dělat, když takový balíček není k dispozici. Na závěr se podíváme, co dělat v situaci, kdy cílová platforma API neposkytuje.\n\n\n\nPetr Chlubna - Zkrocení zlých dat (19.10)\n\nPetr Chlubna - Zkrocení zlých dat (NMS)  Termín: 19. 10.  Registrace: https://forms.office.com/e/KV7WTc8tGy\nV praxi se nesetkáváme pouze s čistými daty, často je potřeba před samotnou analýzou data upravit. Na jednoduchém příkladu si ukážeme několik kroků, jak z nehezkých dat udělat čistá data. Budeme pracovat s indexováním, s úpravami character proměnných a transformacemi (široká/dlouhá data).\n\n\n\nJakub Lysek - Vizualizace a komunikace výsledků kvantiativních analýz (2.11.)\n\nJakub Lysek - Vizualizace a komunikace výsledků kvantiativních analýz (Katedra politologie a evropských studií, FF UP v Olomouci)  Termín: 2. 11.  Registrace: https://forms.office.com/e/sbS0mVRig8\nJak komunikovat složité výsledky statistických modelů veřejnosti? Jak automatizovat výstupy analýz pro akademický text, seminární či diplomovou práci? V semináři probereme základní možnosti v programu R, zejména balíčky coefplot, texreg, interactions pro regresní modely, dále pak možnosti ggplot a plotly pro interaktivní grafické výstupy. Podíváme se také na to, jak využít Rmarkdown pro tvorbu akademických článků, či reportů analýz.\n\n\n\nMichael Škvrňák - Survey experimenty (16.11.)\n\nMichael Škvrňák - Survey experimenty (Sociologický ústav AV ČR, PAQ Research)  Termín: 16. 11.  Registace: https://forms.office.com/e/bYhnbQACvh\nTento workshop představuje survey experimenty sloužící k odhalení (potenciálně citlivých) preferencí respondentů. Během workshopu budou představeny různé designy survey experimentů (jako např. conjoint experiment, list experiment) a způsob jejich analýzy.\n\n\n\nJan Netík - Nové možnosti v oblasti topic modelingu (30.11.)\n\nJan Netík - Nové možnosti v oblasti topic modelingu (Ústav informatiky AV ČR)  Termín: 30. 11.  Registrace: https://forms.office.com/e/81MvEuPebv\nDetekce srozumitelných témat ve velkém množství textových dat je překvapivě náročná úloha. Tradičně využívané statistické postupy vyžadují mnohdy komplikované “předzpracování” dat a výsledky těchto metod mohou být neinterpretovatelné. Ve workshopu se proto zaměříme na nové pokroky v oblasti, které podnítily zejm. velké jazykové modely. V rámci praktické ukázky využijeme R i Python.\n\n\n\nAdam Klocek - Uvedení do psychologických sítí (14.12.)\n\nAdam Klocek - Uvedení do psychologických sítí (Psychologický ústav AVČR)  Termín: 14. 12.  Registrace: https://forms.office.com/e/6NBruzf4zH  Tento workshop je online\nV semináři se stručně podíváme na pojetí známých psychologických konstruktů ze síťového úhlu pohledu, srovname mezi sebou faktorový a síťový model, v R budeme pracovat s balíčky bootnet, qgraph a psychonetrics. Ukážeme si, jak síťový model odhadnout, vizualizovat a posoudit interpretovatelnost výsledku.\n\n\n\nSára Komasová - Analýza latentních profilů (4.1.)\n\nSára Komasová - Analýza latentních profilů (STEM/ČVUT FD Ústav letecké dopravy/ FSV UK Experimental Lab for International Security Studies)  Termín: 4. 1.  Registrace: https://forms.office.com/e/7fjjR174qD\nZaměříme se na analytické situace, kdy je cílem identifikovat v datovém souboru distinktivní skupiny. Když je cílem zjistit, které případy jsou si mezi sebou vzájemně podobnější. Následně si společně vyzkoušíme jednu z možných metod - Analýzu latentních profilů a společně podobnou klasifikaci vytvoříme. V závěru se budeme věnovat kritické diskuzi nad výběrem vhodného modelu a zejména otázkám interpretace dosaženého řešení."
+  }
+]

@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Vybraná témata analýzy dat"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Workshopy"
+      - about.qmd
+  page-footer:
+    left: '<a href= "https://ksoc.ff.cuni.cz/"><img src="/media/ksoc-logo.svg" width="224" height="80" /></a>'
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    
+lang: cs
+
+
+

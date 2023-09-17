@@ -1,0 +1,99 @@
+---
+title: "Vybraná témata analýza dat"
+---
+
+Tato stránka je věnována workshopům pro statistiku a analýzu dat v kontextu sociálních věd, pořádaných na [katedře sociologii Filozofické fakulty Univerzity Karlovy](https://ksoc.ff.cuni.cz). **Cílem setkání je poskytnout účastníkům příležitost seznámit se s pokročilými, novými a méně běžnými nástroji pro analýzu dat.** Workhopy vás provedou hosté z řad akademického, veřejného i soukromého sektoru.
+
+Studenti univerzity si mohou workshopy zapsat jako volitelný předmět *"Vybrané kapitoly analýzy dat v R"* (SIS kód: ASGV00993). Studenti doktorského studia katedry sociologie FF UK si mohou účast na workshopech uznat jako teoreticko-metodologické semináře. Detaily jsou k nalezení v záložce Atestace. Ostatní zájemci se mohou registrovat na konkrétní workshopy pomocí přiložených formulářů. V případě otázek se můžete obrátit na [ales@vomacka.io](mailto:ales@vomacka.io).
+
+
+Pokud není uvedeno jinak, workshopy se konají ve **čtvrtek od 14:10 do 15:45 v Celetné 20, místnost 211**.
+
+## Přehled workshopů pro akademický rok 2023/2024
+
+<details>
+  <summary class = "item">**Renáta Topinková - Webscraping v R (5.10)**</summary>
+  
+  **Renáta Topinková - Webscraping v R (LMU Munich)**
+  </br>
+  **Termín: 5. 10.**
+  </br> **Registrace: [https://forms.office.com/e/BfHA4p1fJu](https://forms.office.com/e/BfHA4p1fJu)**
+  </br>
+  **Tento workshop je 3hodinový!**
+  
+API (application programming interfaces) jsou v dnešní době nezbytnou součástí digitálního světa, avšak získat z nich data, která potřebujeme, může být často výzvou. V tomto workshopu si vyzkoušíme stahování dat pomocí dedikovaných R balíčků pro konkrétní API, ale také se naučíme, co dělat, když takový balíček není k dispozici. Na závěr se podíváme, co dělat v situaci, kdy cílová platforma API neposkytuje.
+</details>
+
+<details>
+  <summary class = "item">**Petr Chlubna - Zkrocení zlých dat (19.10)**</summary>
+  
+  **Petr Chlubna - Zkrocení zlých dat (NMS)**
+  </br>
+  **Termín: 19. 10.**
+  </br> **Registrace: [https://forms.office.com/e/KV7WTc8tGy](https://forms.office.com/e/KV7WTc8tGy)**
+  
+V praxi se nesetkáváme pouze s čistými daty, často je potřeba před samotnou analýzou data upravit. Na jednoduchém příkladu si ukážeme několik kroků, jak z nehezkých dat udělat čistá data. Budeme pracovat s indexováním, s úpravami character proměnných a transformacemi (široká/dlouhá data).
+</details>
+
+<details>
+  <summary class = "item">**Jakub Lysek - Vizualizace a komunikace výsledků kvantiativních analýz (2.11.)**</summary>
+  
+  **Jakub Lysek - Vizualizace a komunikace výsledků kvantiativních analýz (Katedra politologie a evropských studií, FF UP v Olomouci)**
+  </br>
+  **Termín: 2. 11.**
+  </br>
+  **Registrace: [https://forms.office.com/e/sbS0mVRig8](https://forms.office.com/e/sbS0mVRig8)**
+  
+Jak komunikovat složité výsledky statistických modelů veřejnosti? Jak automatizovat výstupy analýz pro akademický text, seminární či diplomovou práci? V semináři probereme základní možnosti v programu R, zejména balíčky coefplot, texreg, interactions pro regresní modely, dále pak možnosti ggplot a plotly pro interaktivní grafické výstupy. Podíváme se také na to, jak využít Rmarkdown pro tvorbu akademických článků, či reportů analýz.
+</details>
+
+<details>
+  <summary class = "item">**Michael Škvrňák - Survey experimenty (16.11.)**</summary>
+  
+  **Michael Škvrňák - Survey experimenty (Sociologický ústav AV ČR, PAQ Research)**
+  </br>
+  **Termín: 16. 11.**
+  </br>
+  **Registace: [https://forms.office.com/e/bYhnbQACvh](https://forms.office.com/e/bYhnbQACvh)**
+  
+Tento workshop představuje survey experimenty sloužící k odhalení (potenciálně citlivých) preferencí respondentů. Během workshopu budou představeny různé designy survey experimentů (jako např. conjoint experiment, list experiment) a způsob jejich analýzy.
+</details>
+
+<details>
+  <summary class = "item">**Jan Netík - Nové možnosti v oblasti topic modelingu (30.11.)**</summary>
+  
+  **Jan Netík - Nové možnosti v oblasti topic modelingu (Ústav informatiky AV ČR)**
+  </br>
+  **Termín: 30. 11.**
+  </br>
+  **Registrace: [https://forms.office.com/e/81MvEuPebv](https://forms.office.com/e/81MvEuPebv)**
+  
+Detekce srozumitelných témat ve velkém množství textových dat je překvapivě náročná úloha. Tradičně využívané statistické postupy vyžadují mnohdy komplikované "předzpracování" dat a výsledky těchto metod mohou být neinterpretovatelné. Ve workshopu se proto zaměříme na nové pokroky v oblasti, které podnítily zejm. velké jazykové modely. V rámci praktické ukázky využijeme R i Python.
+</details>
+
+<details>
+  <summary class = "item">**Adam Klocek - Uvedení do psychologických sítí  (14.12.)**</summary>
+  
+  **Adam Klocek - Uvedení do psychologických sítí (Psychologický ústav AVČR)**
+  </br>
+  **Termín: 14. 12.**
+  </br>
+  **Registrace: [https://forms.office.com/e/6NBruzf4zH](https://forms.office.com/e/6NBruzf4zH)**
+  </br>
+  **Tento workshop je online**
+  
+V semináři se stručně podíváme na pojetí známých psychologických konstruktů ze síťového úhlu pohledu, srovname mezi sebou faktorový a síťový model, v R budeme pracovat s balíčky bootnet, qgraph a psychonetrics. Ukážeme si, jak síťový model odhadnout, vizualizovat a posoudit interpretovatelnost výsledku.
+</details>
+
+<details>
+  <summary class = "item">**Sára Komasová - Analýza latentních profilů (4.1.)**</summary>
+  
+  **Sára Komasová - Analýza latentních profilů (STEM/ČVUT FD Ústav letecké dopravy/ FSV UK Experimental Lab for International Security Studies)**
+  </br>
+  **Termín: 4. 1.**
+  </br>
+  **Registrace: [https://forms.office.com/e/7fjjR174qD](https://forms.office.com/e/7fjjR174qD)**
+  
+Zaměříme se na analytické situace, kdy je cílem identifikovat v datovém souboru distinktivní skupiny. Když je cílem zjistit, které případy jsou si mezi sebou vzájemně podobnější. Následně si společně vyzkoušíme jednu z možných metod - Analýzu latentních profilů a společně podobnou klasifikaci vytvoříme. V závěru se budeme věnovat kritické diskuzi nad výběrem vhodného modelu a zejména otázkám interpretace dosaženého řešení.
+</details>
+
