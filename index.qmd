@@ -7,7 +7,7 @@ Tato stránka je věnována workshopům pro statistiku a analýzu dat v kontextu
 Studenti univerzity si mohou workshopy zapsat jako volitelný předmět *"Vybrané kapitoly analýzy dat v R"* (SIS kód: ASGV00993). Studenti doktorského studia katedry sociologie FF UK si mohou účast na workshopech uznat jako teoreticko-metodologické semináře. Detaily jsou k nalezení v záložce Atestace. Ostatní zájemci se mohou registrovat na konkrétní workshopy pomocí přiložených formulářů. V případě otázek se můžete obrátit na [ales@vomacka.io](mailto:ales@vomacka.io).
 
 
-Pokud není uvedeno jinak, workshopy se konají ve **čtvrtek od 14:10 do 15:45 v Celetné 20, místnost 211**.
+Pokud není uvedeno jinak, workshopy se konají ve **čtvrtek od 14:10 do 15:45 v Celetné 13, místnost 1.09**.
 
 ## Přehled workshopů pro akademický rok 2023/2024
 
