@@ -7,9 +7,85 @@ Tato stránka je věnována workshopům pro statistiku a analýzu dat v kontextu
 Studenti univerzity si mohou workshopy zapsat jako volitelný předmět *"Vybrané kapitoly analýzy dat v R"* (SIS kód: ASGV00993). Studenti doktorského studia katedry sociologie FF UK si mohou účast na workshopech uznat jako teoreticko-metodologické semináře. Detaily jsou k nalezení v záložce Atestace. Ostatní zájemci se mohou registrovat na konkrétní workshopy pomocí přiložených formulářů. V případě otázek se můžete obrátit na [ales@vomacka.io](mailto:ales@vomacka.io).
 
 
-Pokud není uvedeno jinak, workshopy se konají ve **čtvrtek od 14:10 do 15:45 v Celetné 13, místnost 1.09**.
+Pokud není uvedeno jinak, workshopy se konají ve **čtvrtek od 15:50 do 17:25 v Celetné 13, místnost 1.09**.
 
-## Přehled workshopů pro akademický rok 2023/2024
+## Přehled workshopů pro akademický rok 2024/2025
+
+<details>
+  <summary class =  "item">**Matouš Pilnáček - Vážení dotazníkových dat (3. 10.)**</summary> 
+  **Matouš Pilnáček - Vážení dat (Sociologický ústav AVČR)**
+  </br>
+  **Termín: 3. 10.**
+  </br> **Registrace:** [link](https://forms.office.com/e/2Z5JTTmmNd)
+
+V dotazníkových šetřeních se často upravují data pomocí vážení tak, aby výsledky lépe odrážely skutečné složení zkoumané populace. Každému respondentovi je přiřazena váha, která určuje jeho relativní význam v celkovém souboru dat. Tato úprava dat je z řady důvodů velmi lákavá, ale má zároveň i své nevýhody. V rámci workshopu se nejprve zaměříme na teoretické aspekty vážení dat: Je potřeba vždy vážit? Jaké typy vah existují? Jaké jsou skrytá úskalí vážení? Poté se přesuneme k praktické části, ve které si ukážeme, jak vytvořit váhy pomocí balíčku survey v prostředí R, a jak je efektivně použít při analýzách. Diskutovat také budeme alternativní metody vážení jako je např. kvadratické programování.
+</details>
+
+<details>
+  <summary class = "item">**Jiří Lukavský - Organizace kódu a dat (17. 10.)**</summary>
+  **Jiří Lukavský - Organizace kódu a dat (FF UK/ Psychologický ústav AVČR)**
+  </br>
+  **Termín: 17. 10.**
+  </br> **Registrace:** [link](https://forms.office.com/e/65j7CiM8kT) 
+
+V rámci analýzy potřebujeme často udržovat pořádek, např. pracujeme se vstupními daty, výsledky a mezivýsledky. Chceme efektivně stavět na předchozích výpočtech, ale také aby jednotlivé fáze naší práce byly replikovatelné. Budeme se věnovat organizaci kódu pomocí balíčku targets a také propojením s dalšími možnostmi výstupů (vertical).
+</details>
+
+<details>
+  <summary class = "item">**Petr Bouchal - Kde vzít otevřená data a jak s nimi pracovat efektivně (31. 10.)**</summary>
+  **Petr Bouchal - Kde vzít otevřená data a jak s nimi pracovat efektivně (VAÚ ÚV)**
+  </br>
+  **Termín: 31. 10.**
+  </br> **Registrace:** [link](https://forms.office.com/e/0mNdpX01VC)
+
+Jak se v Rku dostat ke statistickým a administrativním datům statu? Ukážeme si na příkladu otevřených dat ČSÚ a státní pokladny a k dalším datům vás nasměruju. A protože taková data někdy mají dost řádků, ukážeme si, jak v Rku pracovat s většími množství dat pracovat tak, aby počítání bylo svižné a efektivní (hesla: arrow, duckDB).
+</details>
+
+<details>
+  <summary class = "item">**Martin Modrák - Bayesovské statistické workflow s balíčkem rstanarm (14. 11.)**</summary>
+  **Martin Modrák - Bayesovské statistické workflow s balíčkem rstanarm (2. LF UK)**
+  </br>
+  **Termín: 14. 11.**
+  </br> **Registrace:** [link](https://forms.office.com/e/eTjTAd18ge)
+
+TBD
+</details>
+
+<details>
+  <summary class = "item">**Patrícia Martinková - Psychometrie v R (28. 11.)**</summary>
+  **Patrícia Martinková - Psychometrie v R (PedF UK / Ůstav Informatiky AVČR)**
+  </br>
+  **Termín: 28. 11.**
+  </br> **Registrace:** [link](https://forms.office.com/e/XZ7pwK7ZaA)
+
+TBD
+</details>
+
+<details>
+  <summary class = "item">**Sára Komasová - Analýza latentních profilů (5. 12.)**</summary>
+  **Sára Komasová - Analýza latentních profilů (STEM/ČVUT FD Ústav letecké dopravy/ FSV UK Experimental Lab for International Security Studies)**
+  </br>
+  **Termín: 5. 12.**
+  </br> **Registrace:** [link](https://forms.office.com/e/ghxSnKC47r)
+
+Zaměříme se na analytické situace, kdy je cílem identifikovat v datovém souboru distinktivní skupiny. Když je cílem zjistit, které případy jsou si mezi sebou vzájemně podobnější. Následně si společně vyzkoušíme jednu z možných metod - Analýzu latentních profilů a společně podobnou klasifikaci vytvoříme. V závěru se budeme věnovat kritické diskuzi nad výběrem vhodného modelu a zejména otázkám interpretace dosaženého řešení.
+</details>
+
+
+<details>
+  <summary class = "item">**Kateřina Duspivová - Prostorová data a tvorba map (12. 12.)**</summary>
+  **Kateřina Duspivová - Prostorová data a tvorba map (STEM)**
+  </br>
+  **Termín: 12. 12.**
+  </br> **Registrace:** [link](https://forms.office.com/e/t3NrG7FUv7)
+
+Jak zobrazit prostorová data? Už se vám to určitě stalo - potřebujete vytvořit v Rku mapu, ale pojmy jako polygony, shapefile, GeoJSON, LAU, NUTS, ZSJ jsou jak z jiného světa. Vysvětlíme si proto základní pojmy a zkusíme společně vytvořit jednoduchou mapu. Také si řekneme něco k teorii map a ukážeme si, co by na kvalitní mapě nemělo chybět.
+</details>
+
+
+## Předchozí ročníky
+<details>
+  <summary> **Přehled workshopů pro akademický rok 2023/2024** </summary>
 
 <details>
   <summary class = "item">**Renáta Topinková - Webscraping v R (5.10)**</summary>
@@ -96,4 +172,4 @@ V semináři se stručně podíváme na pojetí známých psychologických konst
   
 Zaměříme se na analytické situace, kdy je cílem identifikovat v datovém souboru distinktivní skupiny. Když je cílem zjistit, které případy jsou si mezi sebou vzájemně podobnější. Následně si společně vyzkoušíme jednu z možných metod - Analýzu latentních profilů a společně podobnou klasifikaci vytvoříme. V závěru se budeme věnovat kritické diskuzi nad výběrem vhodného modelu a zejména otázkám interpretace dosaženého řešení.
 </details>
-
+</details>
