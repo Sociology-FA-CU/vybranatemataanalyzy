@@ -1,5 +1,5 @@
 ---
-title: "Vybraná témata analýza dat"
+title: "Vybraná témata analýzy dat"
 ---
 
 Tato stránka je věnována workshopům pro statistiku a analýzu dat v kontextu sociálních věd, pořádaných na [katedře sociologii Filozofické fakulty Univerzity Karlovy](https://ksoc.ff.cuni.cz). **Cílem setkání je poskytnout účastníkům příležitost seznámit se s pokročilými, novými a méně běžnými nástroji pro analýzu dat.** Workhopy vás provedou hosté z řad akademického, veřejného i soukromého sektoru.
@@ -58,7 +58,7 @@ Bayesovský přístup ke statistice není jen filozofická záležitost, ale (ze
   **Termín: 28. 11.**
   </br> **Registrace:** [link](https://forms.office.com/e/XZ7pwK7ZaA)
 
-V prezentaci probereme výpočetní aspekty psychometrických metod pro odhadování reliability, validity a fungování položek vícepoložkových měření, jakož i implementace v R a SHinyItemAnalysis. Nahlédneme do knihy k tomuto tématu (Martinková & Hladká, 2023, Chapman&Hall/CRC Press) a doprovodnému R-kovému kódu.
+V prezentaci probereme výpočetní aspekty psychometrických metod pro odhadování reliability, validity a fungování položek vícepoložkových měření, jakož i implementace v R a ShinyItemAnalysis. Nahlédneme do knihy k tomuto tématu (Martinková & Hladká, 2023, Chapman&Hall/CRC Press) a doprovodnému R-kovému kódu.
 </details>
 
 <details>
