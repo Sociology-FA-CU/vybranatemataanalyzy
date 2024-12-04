@@ -62,10 +62,10 @@ V prezentaci probereme výpočetní aspekty psychometrických metod pro odhadov�
 </details>
 
 <details>
-  <summary class = "item">**Sára Komasová - Analýza latentních profilů (5. 12.)**</summary>
+  <summary class = "item">**Sára Komasová - Analýza latentních profilů (12. 12.)**</summary>
   **Sára Komasová - Analýza latentních profilů (STEM/ČVUT FD Ústav letecké dopravy/ FSV UK Experimental Lab for International Security Studies)**
   </br>
-  **Termín: 5. 12.**
+  **Termín: 12. 12. (původně 5. 12.)**
   </br> **Registrace:** [link](https://forms.office.com/e/ghxSnKC47r)
 
 Zaměříme se na analytické situace, kdy je cílem identifikovat v datovém souboru distinktivní skupiny. Když je cílem zjistit, které případy jsou si mezi sebou vzájemně podobnější. Následně si společně vyzkoušíme jednu z možných metod - Analýzu latentních profilů a společně podobnou klasifikaci vytvoříme. V závěru se budeme věnovat kritické diskuzi nad výběrem vhodného modelu a zejména otázkám interpretace dosaženého řešení.
@@ -73,10 +73,10 @@ Zaměříme se na analytické situace, kdy je cílem identifikovat v datovém so
 
 
 <details>
-  <summary class = "item">**Kateřina Duspivová - Prostorová data a tvorba map (12. 12.)**</summary>
+  <summary class = "item">**Kateřina Duspivová - Prostorová data a tvorba map (9. 1.)**</summary>
   **Kateřina Duspivová - Prostorová data a tvorba map (STEM)**
   </br>
-  **Termín: 12. 12.**
+  **Termín: 9. 1. (předně 12. 12.)**
   </br> **Registrace:** [link](https://forms.office.com/e/t3NrG7FUv7)
 
 Jak zobrazit prostorová data? Už se vám to určitě stalo - potřebujete vytvořit v Rku mapu, ale pojmy jako polygony, shapefile, GeoJSON, LAU, NUTS, ZSJ jsou jak z jiného světa. Vysvětlíme si proto základní pojmy a zkusíme společně vytvořit jednoduchou mapu. Také si řekneme něco k teorii map a ukážeme si, co by na kvalitní mapě nemělo chybět.

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="cs" xml:lang="cs"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-c006a27211b4948bafd4775655048c79.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -171,16 +171,16 @@ V prezentaci probereme výpočetní aspekty psychometrických metod pro odhadov�
 </details>
 <details>
 <summary class="item">
-<strong>Sára Komasová - Analýza latentních profilů (5. 12.)</strong>
+<strong>Sára Komasová - Analýza latentních profilů (12. 12.)</strong>
 </summary>
-<p><strong>Sára Komasová - Analýza latentních profilů (STEM/ČVUT FD Ústav letecké dopravy/ FSV UK Experimental Lab for International Security Studies)</strong> <br> <strong>Termín: 5. 12.</strong> <br> <strong>Registrace:</strong> <a href="https://forms.office.com/e/ghxSnKC47r">link</a></p>
+<p><strong>Sára Komasová - Analýza latentních profilů (STEM/ČVUT FD Ústav letecké dopravy/ FSV UK Experimental Lab for International Security Studies)</strong> <br> <strong>Termín: 12. 12. (původně 5. 12.)</strong> <br> <strong>Registrace:</strong> <a href="https://forms.office.com/e/ghxSnKC47r">link</a></p>
 Zaměříme se na analytické situace, kdy je cílem identifikovat v datovém souboru distinktivní skupiny. Když je cílem zjistit, které případy jsou si mezi sebou vzájemně podobnější. Následně si společně vyzkoušíme jednu z možných metod - Analýzu latentních profilů a společně podobnou klasifikaci vytvoříme. V závěru se budeme věnovat kritické diskuzi nad výběrem vhodného modelu a zejména otázkám interpretace dosaženého řešení.
 </details>
 <details>
 <summary class="item">
-<strong>Kateřina Duspivová - Prostorová data a tvorba map (12. 12.)</strong>
+<strong>Kateřina Duspivová - Prostorová data a tvorba map (9. 1.)</strong>
 </summary>
-<p><strong>Kateřina Duspivová - Prostorová data a tvorba map (STEM)</strong> <br> <strong>Termín: 12. 12.</strong> <br> <strong>Registrace:</strong> <a href="https://forms.office.com/e/t3NrG7FUv7">link</a></p>
+<p><strong>Kateřina Duspivová - Prostorová data a tvorba map (STEM)</strong> <br> <strong>Termín: 9. 1. (předně 12. 12.)</strong> <br> <strong>Registrace:</strong> <a href="https://forms.office.com/e/t3NrG7FUv7">link</a></p>
 Jak zobrazit prostorová data? Už se vám to určitě stalo - potřebujete vytvořit v Rku mapu, ale pojmy jako polygony, shapefile, GeoJSON, LAU, NUTS, ZSJ jsou jak z jiného světa. Vysvětlíme si proto základní pojmy a zkusíme společně vytvořit jednoduchou mapu. Také si řekneme něco k teorii map a ukážeme si, co by na kvalitní mapě nemělo chybět.
 </details>
 </section>
@@ -327,8 +327,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -439,7 +437,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
