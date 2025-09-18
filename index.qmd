@@ -9,7 +9,73 @@ Studenti univerzity si mohou workshopy zapsat jako volitelný předmět *"Vybran
 
 Pokud není uvedeno jinak, workshopy se konají ve **čtvrtek od 15:50 do 17:25 v Celetné 13, místnost 1.09**.
 
-## Přehled workshopů pro akademický rok 2024/2025
+## Přehled workshopů pro akademický rok 2025/2026
+
+<details>
+  <summary class =  "item">**Aleš Vomáčka - Jak vycvičit chatbota: LLM a RAG (2. 10.)**</summary> 
+  **Aleš Vomáčka - Jak vycvičit chatbota: LLM a RAG (FF UK, STEM)**
+  </br>
+  **Termín: 2. 10.**
+  </br> **Registrace:** [link](https://forms.office.com/e/x6fkLbh570)
+
+Svět se dnes zdánlivě točí kolem velkých jazykových modelů (large language models, LLM), a jejich nejpopulárnější aplikací jsou online chatboti. Spolehlivost výstupů těchto chatbotů je ale... proměnlivá, zvláště když dojde na specifická a méně známá témata. Naštěstí je dnes relativně jednoduché chatboty vycvičit na nová témata, poskytnutím nových informací ve standardizované podobě. Tato technika se nazývá Retrieval-augmented generation (RAG) a my si ji vyzkoušíme s pomocí balíčků ellmer, ragnar a shinylive.
+</details>
+
+<details>
+  <summary class =  "item">**Martin Modrák - Bayesovká statistika pragmaticky (16. 10.)**</summary> 
+  **Martin Modrák - Bayesovká statistika pragmaticky (2LF UK)**
+  </br>
+  **Termín: 16. 10.**
+  </br> **Registrace:** [link](https://forms.office.com/e/DEkBBx0TXf)
+
+Představíme krátký úvod do Bayesovské statistiky s důrazem na principy důležité pro její použití při konkrétní analýze. Ukážeme si, že Bayesovské metody často mají velmi dobré frekventistické vlastnosti a tudíž dává smysl je používat i když nejste ochotní přistoupit na Bayesovskou filozofii vědy a statistiky. Navíc nám Bayesovské metody umožňují formulovat bohaté modely, které mají těsnou vazbu na naše vědecké teorie a systematicky ověřit, že předpoklady, které naše modely mají a výpočty, které provádíme, jsou alespoň přibližně v pořádku.
+</details>
+
+<details>
+  <summary class =  "item">**Aleš Vomáčka - Proč <3 víceúrovňové modely (30. 10.)**</summary> 
+  **Aleš Vomáčka - Proč <3 víceúrovňové modely (FF UK, STEM)**
+  </br>
+  **Termín: 30. 10.**
+  </br> **Registrace:** [link](https://forms.office.com/e/PHfs5zDaxB)
+
+Regresní modely jsou příslovečným švýcarským nožem (kvantitativních) sociálních věd, velká část jejich potenciálu ovšem v našich končinách zůstává nevyužita. A právě víceúrovňové regresní modely jsou jedním z nejvíce nedoceněných zástupců svého druhu. To i přes to, že dnes slouží jako základ mnoha úspěšných aplikací jak v základním, tak v aplikovaném výzkumu. Víceúrovňové modely tvoří nedílnou součást volebních modelů v USA a Británii, využívají se pro hodnocení dopadů vzdělávacích intervencí a jsou s oblibou využívány pro analýzu panelových dat všeho druhu. V tomto workshopu se společně uvedeme do tématu víceúrovňových modelů a ukážeme si, jak je využít pro snížení nároků na velikost vzorku a analýzu vnitro- a meziskupinových efektů.
+</details>
+
+<details>
+  <summary class =  "item">**Jaroslav Horníček - Problematika doplňování chybějících hodnot v kategoriálních datech (13. 11.)**</summary> 
+  **Jaroslav Horníček - Problematika doplňování chybějících hodnot v kategoriálních datech (NMS)**
+  </br>
+  **Termín: 13. 11.**
+  </br> **Registrace:** [link](https://forms.office.com/e/hcbHZkxeQ1)
+
+Ačkoliv je správné zacházení s chybějícími hodnotami klíčové, většina metod se zaměřuje na spojitá, nikoliv kategoriální data. Tento příspěvek se proto věnuje specifikům kategoriálních dat, představuje vhodné imputační metody a ukazuje, jak jejich úspěšnost vyhodnotit i ve vícerozměrných datových sadách.
+</details>
+
+<details>
+  <summary class =  "item">**Ondřej Tichý - Programování s využitím AI (27. 11.)**</summary> 
+  **Ondřej Tichý - Programování s využitím AI (FF UK)**
+  </br>
+  **Termín: 27. 11.**
+  </br> **Registrace:** [link](https://forms.office.com/e/h2ZWzaKa7m)
+
+Programování s využitím AI je nepřehlédnutelným a stále sílícím trendem několika posledních let. Pro humanitní je příslibem snazšího přístupu k digitálním technologiím, může urychlit práci programátorů nebo dokonce vyřešit úlohy, dříve řešitelné jen díky využití programování, zcela bez znalosti programovacích jazyků. Využití AI při psaní kódu má však četné nástrahy - můžeme se vůbec spolehnout na funkčnost kódu, který jsme nenapsali, plně mu nerozumíme a možná jsme ho ani neviděli? Seznámíme se s různými přístupy k programování s AI, od AI asistentů a nápovědy, přes vývoj full-stack aplikací s využitím AI agentů a tzv. orchestration, až k tzv. vibe codingu. Zaměříme se jak na úskalí těchto přístupů, tak na možnosti dobré praxe.
+</details>
+
+<details>
+  <summary class =  "item">**Michaela Cichrová - Jak na odlišné fungování položek (11. 12.)**</summary> 
+  **Michaela Cichrová - Jak na odlišné fungování položek (MFF UK, ÚI AVČR')**
+  </br>
+  **Termín: 11. 12.**
+  </br> **Registrace:** [link](https://forms.office.com/e/0fKMUC88qP)
+
+Odlišné fungování položek (DIF) označuje situaci, kdy dva respondenti se stejnou úrovní studovaných schopnosti, ale z odlišných sociodemografických skupin, mají rozdílnou pravděpodobnost správné odpovědi. Detekce DIF je klíčová pro zajištění spravedlivého hodnocení a pro eliminaci systematické zaujatosti v testech a dotaznících. Zaměříme se na testování DIF pomocí logistické regrese a na následnou  klasifikaci velikosti účinku.
+</details>
+
+
+## Předchozí ročníky
+
+<details>
+  <summary> **Přehled workshopů pro akademický rok 2024/2025** </summary>
 
 <details>
   <summary class =  "item">**Matouš Pilnáček - Vážení dotazníkových dat (3. 10.)**</summary> 
@@ -82,8 +148,8 @@ Zaměříme se na analytické situace, kdy je cílem identifikovat v datovém so
 Jak zobrazit prostorová data? Už se vám to určitě stalo - potřebujete vytvořit v Rku mapu, ale pojmy jako polygony, shapefile, GeoJSON, LAU, NUTS, ZSJ jsou jak z jiného světa. Vysvětlíme si proto základní pojmy a zkusíme společně vytvořit jednoduchou mapu. Také si řekneme něco k teorii map a ukážeme si, co by na kvalitní mapě nemělo chybět.
 </details>
 
+</details>
 
-## Předchozí ročníky
 <details>
   <summary> **Přehled workshopů pro akademický rok 2023/2024** </summary>
 
