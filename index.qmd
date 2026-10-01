@@ -9,7 +9,53 @@ Studenti univerzity si mohou workshopy zapsat jako volitelný předmět *"Vybran
 
 Pokud není uvedeno jinak, workshopy se konají ve **čtvrtek od 15:50 do 17:25 v Celetné 13, místnost 1.09**.
 
-## Přehled workshopů pro akademický rok 2025/2026
+## Přehled workshopů pro akademický rok 2026/2027
+
+<details>
+  <summary class = "item">**Aleš Vomáčka - Jak měřit nepozorovatelné: Crashcourse do Teorie odpovědi na položku (15. 10.)**</summary>
+  **Aleš Vomáčka - Jak měřit nepozorovatelné: Crashcourse do Teorie odpovědi na položku (FF UK, STEM)**
+  </br>
+  **Termín: 15. 10.**
+  </br> **Registrace:** [link](https://forms.cloud.microsoft/e/DhjcihzBYL)
+
+Zajímalo vás někdy, jak se v psychologii měří úzkostlivost? Nebo jak PISA měří matematickou gramotnost dětí? Jak se kvantifikují postoje, dovednosti a další nadmíru důležité, ale nepozorovatelné věci? V tomto workshopu si představíme teorii odpovědi na položku, jednu z nejpopulárnějších teorií pro měření latentních (přímo nepozorovatelných) konstruktů v sociálních vědách. Ukážeme, jak spočítat a interpretovat základní modely a představíme ukázky komplexnějších aplikací. Předchozí znalost logistické regrese je výhodou, nikoliv však nutností.
+</details>
+
+<details>
+  <summary class = "item">**Jindřich Lacko - Spatial Data Science: od kreslení map k prostorové statistice (29. 10.)**</summary>
+  **Jindřich Lacko - Spatial Data Science: od kreslení map k prostorové statistice (VŠE)**
+  </br>
+  **Termín: 29. 10.**
+  </br> **Registrace:** [link](https://forms.cloud.microsoft/e/JzS1N4rhJN)
+
+Ukážeme si, jak snadno a rychle připravit v prostředí erka přesvědčivé mapové vizuály v publikační kvalitě. S pomocí otevřených dat ČR a EU si ukážeme Toblerův zákon - všechno souvisí se vším, ale blízké věci spolu souvisí více nežli věci vzdálené - a jeho důsledky.
+</details>
+
+<details>
+  <summary class = "item">**Thomas Hayes - Agentná AI v praxi sociálnej vedy (12. 11.)**</summary>
+  **Thomas Hayes - Agentná AI v praxi sociálnej vedy (FSS MUNI)**
+  </br>
+  **Termín: 12. 11.**
+  </br> **Registrace:** [link](https://forms.cloud.microsoft/e/jnMG0WLfBS)
+
+Workshop ukáže, ako zapojiť nástroje agentnej AI (Claude Code, Codex a podobné) do analýzy dát v R: od spustenia agenta v projektovom priečinku cez písanie a spúšťanie skriptov až po automatickú tvorbu tabuliek a grafov. Zameriame sa aj na to, ako sa mení samotná práca výskumníka, typické chyby pri práci s AI a na aké úlohy sa hodí a na aké nie.
+</details>
+
+<details>
+  <summary class = "item">**Silvie Cinková - Operace na textu (26. 11.)**</summary>
+  **Silvie Cinková - Operace na textu (MFF UK)**
+  </br>
+  **Termín: 26. 11.**
+  </br> **Registrace:** [link](https://forms.cloud.microsoft/e/cyuRn5CtT4)
+
+Jednoduché operace na polostrukturovaných datech s obsahem textu. Demonstrace několika jednoduchých postupů základního dolování textu z tabulkových dat pomocí knihovny tidytext v kontextu známých knihoven z rodiny tidyverse.
+</details>
+
+
+## Předchozí ročníky
+
+<details>
+  <summary> **Přehled workshopů pro akademický rok 2025/2026** </summary>
 
 <details>
   <summary class =  "item">**Aleš Vomáčka - Jak vycvičit chatbota: LLM a RAG (2. 10.)**</summary> 
@@ -71,8 +117,7 @@ Programování s využitím AI je nepřehlédnutelným a stále sílícím trend
 Odlišné fungování položek (DIF) označuje situaci, kdy dva respondenti se stejnou úrovní studovaných schopnosti, ale z odlišných sociodemografických skupin, mají rozdílnou pravděpodobnost správné odpovědi. Detekce DIF je klíčová pro zajištění spravedlivého hodnocení a pro eliminaci systematické zaujatosti v testech a dotaznících. Zaměříme se na testování DIF pomocí logistické regrese a na následnou  klasifikaci velikosti účinku.
 </details>
 
-
-## Předchozí ročníky
+</details>
 
 <details>
   <summary> **Přehled workshopů pro akademický rok 2024/2025** </summary>
