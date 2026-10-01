@@ -32,7 +32,7 @@ Ukážeme si, jak snadno a rychle připravit v prostředí erka přesvědčivé 
 </details>
 
 <details>
-  <summary class = "item">**Thomas Hayes - Agentná AI v praxi sociálnej vedy (12. 11.)**</summary>
+  <summary class = "item">**Thomas Heyes - Agentná AI v praxi sociálnej vedy (12. 11.)**</summary>
   **Thomas Hayes - Agentná AI v praxi sociálnej vedy (FSS MUNI)**
   </br>
   **Termín: 12. 11.**
